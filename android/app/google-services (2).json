@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "35728383296",
+    "project_id": "authenticatiosocial",
+    "storage_bucket": "authenticatiosocial.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:35728383296:android:ff9ec31c3d4aa834106ea5",
+        "android_client_info": {
+          "package_name": "com.example.auth_section"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvGDCkwzSSBhiPA3t5VXS4a2yGCjmc6G4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
